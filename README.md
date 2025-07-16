@@ -1,5 +1,5 @@
 # POC-Team
-A proof of concept app designed to manage and moderate simple classroom tasks.
+A proof of concept app designed to manage and moderate simple classroom's tasks.
 
 # Warning
 Never, never, NEVER use Python string concatenation (+) or string parameters interpolation (%) to pass variables to a SQL query string.
