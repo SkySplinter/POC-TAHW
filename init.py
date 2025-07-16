@@ -17,7 +17,6 @@ elif st.session_state.hw_authenticated and "hw_course" in st.session_state and "
 
 pg = st.navigation(
     {
-        "home": [st.Page("main.py", title="home")],
         "Homework": homework_pages,
      }
 )
