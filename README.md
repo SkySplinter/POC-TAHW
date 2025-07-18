@@ -1,6 +1,10 @@
 # POC-Team
 ## A proof of concept app designed to manage and moderate simple classroom's tasks.
 
+● [Caution](#CAUTION)
+● [How to config Postgres?](#How to config Postgres?)
+● [Fix for linux](# Fix for linux)
+
 <!-- Copy-paste in your Readme.md file -->
 
 <a href="https://next.ossinsight.io/widgets/official/analyze-repo-stars-history?repo_id=1020854412" target="_blank" style="display: block" align="center">
@@ -22,6 +26,8 @@
 </a>
 
 <!-- Made with [OSS Insight](https://ossinsight.io/) -->
+
+# CAUTION
 
 > [!CAUTION]
 > Never, never, ***NEVER*** use Python string concatenation (+) or string parameters interpolation (%) to pass variables to a SQL query string.
