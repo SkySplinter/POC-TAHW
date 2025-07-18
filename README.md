@@ -1,5 +1,16 @@
 # POC-Team
-A proof of concept app designed to manage and moderate simple classroom's tasks.
+## A proof of concept app designed to manage and moderate simple classroom's tasks.
+
+<!-- Copy-paste in your Readme.md file -->
+
+<a href="https://next.ossinsight.io/widgets/official/compose-last-28-days-stats?repo_id=1020854412" target="_blank" style="display: block" align="center">
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://next.ossinsight.io/widgets/official/compose-last-28-days-stats/thumbnail.png?repo_id=1020854412&image_size=auto&color_scheme=dark" width="655" height="auto">
+    <img alt="Performance Stats of SkySplinter/POC-TAHW - Last 28 days" src="https://next.ossinsight.io/widgets/official/compose-last-28-days-stats/thumbnail.png?repo_id=1020854412&image_size=auto&color_scheme=light" width="655" height="auto">
+  </picture>
+</a>
+
+<!-- Made with [OSS Insight](https://ossinsight.io/) -->
 
 > [!CAUTION]
 > Never, never, NEVER use Python string concatenation (+) or string parameters interpolation (%) to pass variables to a SQL query string.
