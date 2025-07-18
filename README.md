@@ -3,6 +3,17 @@
 
 <!-- Copy-paste in your Readme.md file -->
 
+<a href="https://next.ossinsight.io/widgets/official/analyze-repo-stars-history?repo_id=1020854412" target="_blank" style="display: block" align="center">
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://next.ossinsight.io/widgets/official/analyze-repo-stars-history/thumbnail.png?repo_id=1020854412&image_size=auto&color_scheme=dark" width="721" height="auto">
+    <img alt="Star History of SkySplinter/POC-TAHW" src="https://next.ossinsight.io/widgets/official/analyze-repo-stars-history/thumbnail.png?repo_id=1020854412&image_size=auto&color_scheme=light" width="721" height="auto">
+  </picture>
+</a>
+
+<!-- Made with [OSS Insight](https://ossinsight.io/) -->
+
+<!-- Copy-paste in your Readme.md file -->
+
 <a href="https://next.ossinsight.io/widgets/official/analyze-repo-pull-requests-size-per-month?repo_id=1020854412" target="_blank" style="display: block" align="center">
   <picture>
     <source media="(prefers-color-scheme: dark)" srcset="https://next.ossinsight.io/widgets/official/analyze-repo-pull-requests-size-per-month/thumbnail.png?repo_id=1020854412&image_size=auto&color_scheme=dark" width="721" height="auto">
