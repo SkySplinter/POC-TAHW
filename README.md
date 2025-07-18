@@ -2,8 +2,10 @@
 ## A proof of concept app designed to manage and moderate simple classroom's tasks.
 
 ● [Caution](#CAUTION)
-● [How to config Postgres?](#How to config Postgres?)
-● [Fix for linux](# Fix for linux)
+
+● [How to config Postgres?](#How-to-config-Postgres?)
+
+● [Fix for linux](#Fix-for-linux)
 
 <!-- Copy-paste in your Readme.md file -->
 
