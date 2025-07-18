@@ -24,7 +24,7 @@
 <!-- Made with [OSS Insight](https://ossinsight.io/) -->
 
 > [!CAUTION]
-> Never, never, NEVER use Python string concatenation (+) or string parameters interpolation (%) to pass variables to a SQL query string.
+> Never, never, ***NEVER*** use Python string concatenation (+) or string parameters interpolation (%) to pass variables to a SQL query string.
 
 # How to config Postgres?
 1.
