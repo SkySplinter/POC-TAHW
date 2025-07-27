@@ -36,7 +36,7 @@
 
 # How to build this project...
 
-Persude the following steps to run this application on your device...
+To run this application on your device, follow these steps:
 
 ## Installation
 
