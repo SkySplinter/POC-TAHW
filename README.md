@@ -34,7 +34,34 @@
 > [!CAUTION]
 > Never, never, ***NEVER*** use Python string concatenation (+) or string parameters interpolation (%) to pass variables to a SQL query string.
 
-# How to config Postgres?
+# How to build this project...
+
+## Installation
+
+1. Make sure you have python3 and pip installed...
+```
+sudo apt install python3 python3-pip
+```
+2. Download Streamlit
+```
+pip install streamlit
+```
+You can verify the installation with the following command:
+```
+streamlit hello
+```
+3. Install postgres
+```
+sudo apt install postgresql-common
+```
+4. Clone the project
+```
+git clone https://github.com/SkySplinter/POC-TAHW
+cd POC-TAHW
+```
+
+## How to config Postgres?
+
 1.
 ```
 CREATE DATABASE hw_streamlit;
@@ -79,7 +106,7 @@ sudo apt install python3-psycopg2
 pip install streamlit-pdf-viewer
 ```
 
-# Fix for linux
+## Fix for linux
 
 For linux you will encounter a permission denied error. so:
 1.
@@ -101,3 +128,9 @@ postgres
 exit
 ```
 4. remove temp
+
+
+## Run streamlit
+```
+streamlit run hw_login.py
+```
